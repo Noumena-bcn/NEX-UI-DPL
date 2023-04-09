@@ -7,7 +7,7 @@
         "dev": "vite",
         "build": "vite build",
         "preview": "vite preview",
-        "deplot": "gh-pages -d dist"
+        "deploy": "gh-pages -d dist"
     },
     "devDependencies": {
         "@timohausmann/quadtree-js": "^1.2.5",
