@@ -1,0 +1,44 @@
+{
+    "gender": [
+        {
+            "Male": "#3e2cb0"
+        },
+        {
+            "Female": "#e64366"
+        }
+    ],
+    "age": [
+        {
+            "Kid": "#d1e028"
+        },
+        {
+            "Young": "#D8AC3D"
+        },
+        {
+            "Adult": "#DF7751"
+        },
+        {
+            "Elder": "#E64366"
+        }
+    ],
+    "group": [
+        {
+            "Caucasian": "#3E2CB0"
+        },
+        {
+            "Indian": "#D1E028"
+        },
+        {
+            "Middle Eastern": "#E64366"
+        },
+        {
+            "Afro American": "#A243E6"
+        },
+        {
+            "Asian": "#E0283E"
+        },
+        {
+            "Other": "#2CB0A8"
+        }
+    ]
+}

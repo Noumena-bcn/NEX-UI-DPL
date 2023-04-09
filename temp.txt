@@ -1,0 +1,13 @@
+steps to add vite: 
+    - Install top-level-await.- npm i vite-plugin-top-level-await
+    - Import into vite.config.js
+
+        import topLevelAwait from 'vite-plugin-top-level-await'
+        export default {
+            plugins:
+            [
+                topLevelAwait(),
+            ]
+        }
+
+    - npm i rollup .- https://www.npmjs.com/package/rollup
