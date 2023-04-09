@@ -11,3 +11,8 @@ steps to add vite:
         }
 
     - npm i rollup .- https://www.npmjs.com/package/rollup
+
+
+To do: 
+    Must check vite and top-level-await configuration. 
+    Is not working importing the files. 
