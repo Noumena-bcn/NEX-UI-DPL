@@ -11,7 +11,8 @@ export default {
     ],
     root: 'src/',
     publicDir: "../public/",
-    base: './',
+    //base: './',
+    base: '/NEX-UI-DPL',
     server:
     {
         host: true,
