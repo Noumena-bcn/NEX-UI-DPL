@@ -8,8 +8,6 @@
         "build": "vite build",
         "preview": "vite preview",
         "deplot": "gh-pages -d dist"
-
-        
     },
     "devDependencies": {
         "@timohausmann/quadtree-js": "^1.2.5",
@@ -27,6 +25,7 @@
         "@react-three/drei": "9.54.2",
         "@react-three/fiber": "8.10.1",
         "dayjs": "^1.11.7",
+        "gh-pages": "^5.0.0",
         "javascript-color-gradient": "^2.4.4",
         "react": "18.2.0",
         "react-dom": "18.2.0",
