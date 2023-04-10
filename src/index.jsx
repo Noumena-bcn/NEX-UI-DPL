@@ -6,6 +6,7 @@ import Scene from "./scene/Scene.jsx";
 import { Canvas } from "@react-three/fiber";
 import UI from "./ui/UI.jsx";
 const root = ReactDOM.createRoot(document.querySelector("#root"));
+console.log('loading')
 
 root.render(
     <>

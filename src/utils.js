@@ -52,7 +52,6 @@ export function csvToArray(str, delimiter = ";") {
 }
 
 export async function loadCSV(path) {
-    console.log(path);
     const response = await fetch(path);
     const csv = await response.text();
 
