@@ -23,3 +23,6 @@ To do:
 /// https://<your-github-username>.github.io/<your-repo-name>/models/csv/grid_res_01.csv
 
 https://github.com/Noumena-bcn/NEX-UI-DPL.github.io/NEX-UI-DPL/models/csv/grid_res_01.csv
+
+
+https://github.com/Noumena-bcn/NEX-UI-DPL/blob/main/src/models/csv/grid_res_01.csv
