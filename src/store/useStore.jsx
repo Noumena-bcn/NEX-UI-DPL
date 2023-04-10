@@ -2,7 +2,8 @@ import { create } from "zustand";
 import { loadCSV, fetchJSON, getLegend } from "../utils.js";
 import h337 from "@mars3d/heatmap.js";
 
-const res = await loadCSV("./models/csv/grid_res_01.csv");
+//const res = await loadCSV("./models/csv/grid_res_01.csv");
+const res = await loadCSV("https://github.com/Noumena-bcn/NEX-UI-DPL.github.io/NEX-UI-DPL/models/csv/grid_res_01.csv")
 const grid_arr = await loadCSV("./models/csv/grid.csv");
 const grid_vals = await fetchJSON("./models/json/grid_values_10.json");
 const legend = await getLegend("./models/colors_viz.json");

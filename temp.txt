@@ -16,3 +16,10 @@ steps to add vite:
 To do: 
     Must check vite and top-level-await configuration. 
     Is not working importing the files. 
+
+
+/// https://github.com/Noumena-bcn/NEX-UI-DPL
+
+/// https://<your-github-username>.github.io/<your-repo-name>/models/csv/grid_res_01.csv
+
+https://github.com/Noumena-bcn/NEX-UI-DPL.github.io/NEX-UI-DPL/models/csv/grid_res_01.csv
