@@ -1,6 +1,7 @@
 import { BufferAttribute, Color } from "three";
 
-const ptCloudPath = "../models/csv/ptcloud_01.csv";
+//const ptCloudPath = "../models/csv/ptcloud_01.csv";
+const ptCloudPath = "https://raw.githubusercontent.com/Noumena-bcn/NEX-UI-DPL/main/src/models/csv/ptcloud_01.csv"
 const coords = await loadPT(ptCloudPath);
 
 export default function BaseModel() {
