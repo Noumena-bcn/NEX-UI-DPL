@@ -5,7 +5,7 @@ import h337 from "@mars3d/heatmap.js";
 //const res = await loadCSV("./models/csv/grid_res_01.csv");
 //const res = await loadCSV("https://github.com/Noumena-bcn/NEX-UI-DPL/blob/main/src/models/csv/grid_res_01.csv")
 //const res = await loadCSV("Noumena-bcn.github.io/NEX-UI-DPL/models/csv/grid_res_01.csv")
-const res = await loadCSV("https://github.com/Noumena-bcn/NEX-UI-DPL/blob/main/src/models/csv/grid_res_01.csv")
+const res = await loadCSV("https://raw.githubusercontent.com/Noumena-bcn/NEX-UI-DPL/main/src/models/csv/grid_res_01.csv")
 
 //Noumena-bcn.github.io/NEX-UI-DPL/blob/main/src/models/csv/grid_res_01.csv
 //Noumena-bcn.github.io/NEX-UI-DPL/models/csv/grid_res_01.csv
